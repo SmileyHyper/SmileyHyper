@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:39d353&height=160&section=header&animation=fadeIn&fontColor=39d353&fontSize=42&fontAlignY=38&text=SmileyHyper&desc=Mhel%20Anthony%20%E2%80%94%20Systems%20Developer&descAlignY=62&descSize=14&stroke=39d353&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:4FC3F7&height=160&section=header&animation=fadeIn&fontColor=4FC3F7&fontSize=42&fontAlignY=38&text=SmileyHyper&desc=Mhel%20Anthony%20Gone%E2%80%94%20Systems%20Developer&descAlignY=62&descSize=14&stroke=4FC3F7&strokeWidth=1" width="100%" />
 
 <div align="center">
 
@@ -10,12 +10,12 @@
 
 ---
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyHyper&layout=donut&theme=github_dark&hide_border=true&title_color=39d353&bg_color=0d1117&langs_count=6" />
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmileyHyper&layout=donut&theme=github_dark&hide_border=true&title_color=4FC3F7&bg_color=0d1117&langs_count=6" />
 
 ### `> whoami`
 
 ```
-Name     : Mhel Anthony
+Name     : Mhel Anthony Gone
 Role     : Systems Developer
 Location : Philippines
 Status   : Always building
@@ -85,14 +85,14 @@ I turn ideas into scalable, working systems. What started as curiosity evolved i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SmileyHyper&show_icons=true&theme=github_dark&hide_border=true&icon_color=39d353&title_color=39d353&bg_color=0d1117&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SmileyHyper&show_icons=true&theme=github_dark&hide_border=true&icon_color=4FC3F7&title_color=4FC3F7&bg_color=0d1117&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://streak-stats.demolab.com?user=SmileyHyper&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileyHyper&bg_color=0d1117&color=39d353&line=39d353&point=39d353&hide_border=true&area=true&area_color=39d35325&radius=4" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileyHyper&bg_color=0d1117&color=39d353&line=39d353&point=39d353&hide_border=true&area=true&area_color=4FC3F7&radius=4" width="100%" />
 
 </div>
 
