@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=540&lines=▸+Building+systems+that+scale.;▸+PHP+·+TypeScript+·+Python+·+C%23;▸+Laravel+·+Node.js+·+FastAPI+·+Tailwind;▸+Always+shipping+something+new.)](https://github.com/SmileyHyper)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=540&lines=▸+Building+systems+that+scale.;▸+PHP+·+TypeScript+·+Python+·+C%23;▸+Laravel+·+Node.js+·+FastAPI+·+Tailwind;▸+Always+shipping+something+new.)](https://github.com/SmileyHyper)
 
 </div>
 
@@ -86,13 +86,13 @@ I turn ideas into scalable, working systems. What started as curiosity evolved i
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SmileyHyper&show_icons=true&theme=github_dark&hide_border=true&icon_color=4FC3F7&title_color=4FC3F7&bg_color=0d1117&rank_icon=github&hide_title=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com?user=SmileyHyper&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353&bg_color=0d1117" width="49%" />
+<img src="https://streak-stats.demolab.com?user=SmileyHyper&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=4FC3F7&bg_color=0d1117" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileyHyper&bg_color=0d1117&color=39d353&line=39d353&point=39d353&hide_border=true&area=true&area_color=4FC3F7&radius=4" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SmileyHyper&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=4FC3F7&hide_border=true&area=true&area_color=4FC3F7&radius=4" width="100%" />
 
 </div>
 
@@ -104,8 +104,8 @@ I turn ideas into scalable, working systems. What started as curiosity evolved i
 while (alive) { eat(); sleep(); code(); improve(); }
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=SmileyHyper&style=flat-square&color=39d353&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=SmileyHyper&style=flat-square&color=4FC3F7&label=profile+views)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:0d2818,100:0d1117&height=100&section=footer" width="100%" />"# SmileyHyper" 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:0d2818,100:0d1117&height=100&section=footer" width="100%" />"# SmileyHyper" 
